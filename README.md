@@ -128,4 +128,15 @@
 <p>
   The Excel-based <strong>Hospital Patient Analysis Dashboard</strong> is a practical and cost-effective solution for small to medium-sized hospitals or clinics that need consolidated, visual, and interactive reporting of patient, treatment, cost, satisfaction, and readmission data.  
   With a well-structured workbook and a disciplined data entry/update process, stakeholders can monitor hospital performance, identify cost drivers, analyze patient outcomes and satisfaction, and support data-driven management decisions — all without requiring a heavy BI infrastructure.  
+
+  ---
+
+<h2>🔗 Connect with Me</h2>
+<ul>
+  <li>📧 Email: aditi.khade99@gmail.com</li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/aditi-khade-2a69bb274" target="_blank"> https://www.linkedin.com/in/aditi-khade-2a69bb274/</a></li>
+</ul>
+
+
 </p>
+
