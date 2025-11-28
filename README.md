@@ -29,7 +29,6 @@
 <h2>🛠️ Tools & Technologies</h2>
 <ul>
   <li><strong>Microsoft Excel</strong> – for data storage, aggregation (via formulas or PivotTables), and visualizations (charts, graphs, dashboards)</li>
-  <li>(Optional) <strong>Power Query / Excel Data Tools</strong> – for data import, cleaning, and preprocessing when dealing with larger or multiple data sources</li>
   <li><strong>Structured data sheets</strong> – organized raw data sheets for patients, treatments, costs, satisfaction/readmission</li>
   <li><strong>Aggregated / helper sheets</strong> – for computed KPIs, summaries, and supporting data for charts</li>
 </ul>
@@ -125,22 +124,8 @@
 
 ---
 
-<h2>📄 Considerations & Limitations</h2>
-<p>
-  While Excel offers accessibility, flexibility, and low cost, it also has some limitations:  
-  <ul>
-    <li>For large data sets, performance may degrade — Excel isn’t ideal for big data or very large patient volumes.</li>
-    <li>Manual data entry/import can lead to human error or inconsistency if not managed carefully; data validation and standardization are important.</li>
-    <li>Version control and collaboration can become difficult if multiple people update the workbook without coordination.</li>
-    <li>Automation (e.g., via macros or query refresh) may be required for efficient updates; otherwise, manual refresh and update may be time-consuming.</li>
-    <li>Visualization and interactivity are more limited compared to dedicated BI tools — advanced analytics (trend forecasting, sophisticated drill-downs, real-time integration) may not be possible.</li>
-  </ul>
-</p>
-
----
-
 <h2>✅ Conclusion</h2>
 <p>
-  The Excel-based <strong>Hospital Patient Analysis Dashboard</strong> is a practical and cost-effective solution for small-to-medium hospitals or clinics needing consolidated, visual, and interactive reporting of patient, treatment, cost, satisfaction, and readmission data.  
-  With a well-structured workbook and disciplined data entry/update process, it enables stakeholders to monitor hospital performance, identify cost drivers, analyze patient outcomes and satisfaction, and support data-driven management decisions — without requiring heavy BI infrastructure.  
+  The Excel-based <strong>Hospital Patient Analysis Dashboard</strong> is a practical and cost-effective solution for small to medium-sized hospitals or clinics that need consolidated, visual, and interactive reporting of patient, treatment, cost, satisfaction, and readmission data.  
+  With a well-structured workbook and a disciplined data entry/update process, stakeholders can monitor hospital performance, identify cost drivers, analyze patient outcomes and satisfaction, and support data-driven management decisions — all without requiring a heavy BI infrastructure.  
 </p>
